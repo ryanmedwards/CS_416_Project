@@ -36,12 +36,15 @@ public class Lab4_Group1
     }
 
 
+// <<<<<<< chris
+// >>>>>>> 31615b0f641a671d5877540b0bca3b9a5932f4d8
+    // CHRISTIAN CHANGE 2
+// =======
 
 
     // CHRISTIAN
     public static int addNumbers(int num1, num2){
-        return num1+num2
-
+        return num1+num2;
     }
 
 
