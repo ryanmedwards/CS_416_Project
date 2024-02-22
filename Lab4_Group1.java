@@ -62,6 +62,13 @@ public class Lab4_Group1
     public static int subNumb(int a, int b){
         return a-b;
     }
+
+        //EDUARDO
+     public static int multiplyNumbers(int n1, n2){
+        return n1*n2;
+     }
+        
+
 //<<<<<<< Siwe
      //Siwe
     public static void function(){  
@@ -78,5 +85,6 @@ public class Lab4_Group1
     {
         System.out.println("message");
     }
+
 }
 
