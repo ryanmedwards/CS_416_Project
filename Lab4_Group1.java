@@ -8,6 +8,11 @@ public class Lab4_Group1
     }
 
 
+    //   KENENTH
+    public static void printHello(){
+        System.out.println("Hello");
+    }
+  
     public static int subNumb(int a, int b){
         return a-b;
     }
