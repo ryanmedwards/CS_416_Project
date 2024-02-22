@@ -31,8 +31,8 @@ public class Lab4_Group1
     }
 
         //EDUARDO
-     public static int multiplyNumbers(int num1, num2){
-        return num1*num2;
+     public static int multiplyNumbers(int n1, n2){
+        return n1*n2;
      }
         
 }
