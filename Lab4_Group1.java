@@ -5,7 +5,7 @@ public class Lab4_Group1
 
  // Harbir Aujla
   
-   public static int (int length, int width)
+   public static int area(int length, int width)
    {
      // Lab 3 Finds the area of rectangle.
      int area = lenght * width;
