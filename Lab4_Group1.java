@@ -72,5 +72,11 @@ public class Lab4_Group1
     public static int multiplyNumbers(int n1, n2){
        return n1*n2;
     }
+
+    // Quinton
+    public static void printAMESSAGE()
+    {
+        System.out.println("message");
+    }
 }
 
