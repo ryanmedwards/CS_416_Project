@@ -2,6 +2,18 @@
 
 public class Lab4_Group1
 {
+ // Harbir Aujla
+  
+   public static int (int length, int width)
+   {
+     int area = lenght * width;
+   }
+=======
+// <<<<<<< MichaelArcher
+	public void michaelArcherFxn(){
+		//lalala
+	}
+
 //  branch_josh
     public static void joshcala()
     {
@@ -35,9 +47,13 @@ public class Lab4_Group1
     public static int subNumb(int a, int b){
         return a-b;
     }
+//<<<<<<< Siwe
      //Siwe
     public static void function(){  
      System.out.println("Lab 4");  
     }       
+=======
+        
+
 }
 
