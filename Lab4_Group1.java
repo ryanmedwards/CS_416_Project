@@ -2,6 +2,11 @@
 
 public class Lab4_Group1
 {
+// <<<<<<< MichaelArcher
+	public void michaelArcherFxn(){
+		//lalala
+	}
+
 //  branch_josh
     public static void joshcala()
     {
