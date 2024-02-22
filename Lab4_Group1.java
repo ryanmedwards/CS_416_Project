@@ -47,6 +47,12 @@ public class Lab4_Group1
     public static int subNumb(int a, int b){
         return a-b;
     }
+//<<<<<<< Siwe
+     //Siwe
+    public static void function(){  
+     System.out.println("Lab 4");  
+    }       
+=======
         
 
 }
