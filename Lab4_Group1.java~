@@ -5,7 +5,7 @@ public class Lab4_Group1
 
  // Harbir Aujla
   
-   public static int area(int length, int width)
+   public static int (int length, int width)
    {
      // Lab 3 Finds the area of rectangle.
      int area = lenght * width;
@@ -58,32 +58,19 @@ public class Lab4_Group1
     public static void printHello(){
         System.out.println("Hello");
     }
-  
+  // TY LAB2
     public static int subNumb(int a, int b){
         return a-b;
     }
-
-        //EDUARDO
-     public static int multiplyNumbers(int n1, n2){
-        return n1*n2;
-     }
-        
-
 //<<<<<<< Siwe
      //Siwe
     public static void function(){  
      System.out.println("Lab 4");  
     }       
 
-    //EDUARDO
+   //EDUARDO
     public static int multiplyNumbers(int n1, n2){
        return n1*n2;
-    }
-
-    // Quinton
-    public static void printAMESSAGE()
-    {
-        System.out.println("message");
     }
 
 }
