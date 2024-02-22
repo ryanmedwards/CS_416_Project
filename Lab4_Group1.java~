@@ -5,7 +5,7 @@ public class Lab4_Group1
 
  // Harbir Aujla
   
-   public static int area(int length, int width)
+   public static int (int length, int width)
    {
      // Lab 3 Finds the area of rectangle.
      int area = lenght * width;
@@ -24,7 +24,6 @@ public class Lab4_Group1
     public static void joshcala()
     {
         System.out.println("This function was made by Josh Cala.");
-        System.out.println("Additional functionality for Lab 4");
     }
 
 
@@ -49,9 +48,6 @@ public class Lab4_Group1
 
 
     // CHRISTIAN
-// <<<<<<< Kenneth
-    public static int addNumbers(int num1, int num2){
-=======
     public static int addNumbers(int num1, num2){
         return num1+num2;
     }
@@ -59,48 +55,22 @@ public class Lab4_Group1
 
 
     //   KENENTH
-    public static void printHelloWorld(int number){
-        for(int i = 0; i < number; ++i){
-            System.out.println("Hello World");
-        }
-        
+    public static void printHello(){
+        System.out.println("Hello");
     }
-
-    public static void createTriangle(int height){
-        for(int i = 0; i <= height; i++){
-            
-            for(int j = 1; j <= i; j++){
-                System.out.print("*");
-            }
-            System.out.println();
-        }
-    }
-  
+  // TY LAB2
     public static int subNumb(int a, int b){
         return a-b;
     }
-
-        //EDUARDO
-     public static int multiplyNumbers(int n1, n2){
-        return n1*n2;
-     }
-        
-
 //<<<<<<< Siwe
      //Siwe
     public static void function(){  
      System.out.println("Lab 4");  
     }       
 
-    //EDUARDO
+   //EDUARDO
     public static int multiplyNumbers(int n1, n2){
        return n1*n2;
-    }
-
-    // Quinton
-    public static void printAMESSAGE()
-    {
-        System.out.println("message");
     }
 
 }
