@@ -2,16 +2,14 @@
 
 public class Lab4_Group1
 {
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
+
  // Harbir Aujla
   
    public static int (int length, int width)
    {
      int area = lenght * width;
    }
-=======
+
 // <<<<<<< MichaelArcher
 	public void michaelArcherFxn(){
 		//lalala
@@ -25,7 +23,7 @@ public class Lab4_Group1
 
 
     // RYAN  
->>>>>>> 31615b0f641a671d5877540b0bca3b9a5932f4d8
+
     public void RyanEdwards_Function()
     {
         System.out.println("Ryan Edwards made this function."); // Lab 3 change
@@ -33,24 +31,20 @@ public class Lab4_Group1
     }
 
     //Peter Bizoukas
-    public static int addTwoNums(int a, int b) {
-        return a + b;
+    public static int addTHREEnums(int a, int b, int c) {
+        return a + b + c; // now adds three nums,not 2, crazy
     }
-<<<<<<< HEAD
-=======
-=======
 
 
->>>>>>> 31615b0f641a671d5877540b0bca3b9a5932f4d8
+
+
     // CHRISTIAN
     public static int addNumbers(int num1, num2){
         return num1+num2
 
     }
 
-<<<<<<< HEAD
->>>>>>> e7124c952179a3628f98f84046376ba4ba4b617b
-=======
+
 
     //   KENENTH
     public static void printHello(){
@@ -65,9 +59,7 @@ public class Lab4_Group1
     public static void function(){  
      System.out.println("Lab 4");  
     }       
-=======
-        
->>>>>>> 31615b0f641a671d5877540b0bca3b9a5932f4d8
+
 
 }
 
