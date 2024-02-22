@@ -7,13 +7,18 @@ public class Lab4_Group1
   
    public static int (int length, int width)
    {
+     // Lab 3 Finds the area of rectangle.
      int area = lenght * width;
+     
+     // Lab 4 Returns the area of rectangle.
+     return area;
+     
    }
 
 // <<<<<<< MichaelArcher
-	public void michaelArcherFxn(){
-		//lalala
-	}
+ public void michaelArcherFxn(){
+  //lalala
+ }
 
 //  branch_josh
     public static void joshcala()
@@ -27,7 +32,7 @@ public class Lab4_Group1
     public void RyanEdwards_Function()
     {
         System.out.println("Ryan Edwards made this function."); // Lab 3 change
-	System.out.println("Lab 4 Change");
+ System.out.println("Lab 4 Change");
     }
 
     //Peter Bizoukas
