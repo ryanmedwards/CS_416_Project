@@ -68,6 +68,10 @@ public class Lab4_Group1
      System.out.println("Lab 4");  
     }       
 
+   //EDUARDO
+    public static int multiplyNumbers(int n1, n2){
+       return n1*n2;
+    }
 
 }
 
